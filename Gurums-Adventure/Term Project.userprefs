@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\StartScene\ScaleReduce.js">
+    <Files>
+      <File FileName="Assets\340\structure\Goal.js" Line="17" Column="31" />
+      <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\ThirdPersonController.js" Line="1" Column="1" />
+      <File FileName="Assets\Title\TitleCamera.js" Line="1" Column="1" />
+      <File FileName="Assets\Scene336\Balls\SpaceBall.js" Line="1" Column="1" />
+      <File FileName="Assets\336\Ball\Ball.js" Line="1" Column="1" />
+      <File FileName="Assets\Chamirisa\Character\PlayerController.js" Line="1" Column="1" />
+      <File FileName="Assets\Scene336\BallGenerator\BallGenerator.js" Line="1" Column="1" />
+      <File FileName="Assets\Scene336\Game Controller\Referee.js" Line="1" Column="1" />
+      <File FileName="Assets\Title\TitleScreen.js" Line="1" Column="1" />
+      <File FileName="Assets\336\Ball\WhiteBall.js" Line="1" Column="1" />
+      <File FileName="Assets\336\Laptop\LaptopFlicker.js" Line="1" Column="1" />
+      <File FileName="Assets\340\structure\Cube.js" Line="1" Column="1" />
+      <File FileName="Assets\StartScene\ScaleReduce.js" Line="7" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

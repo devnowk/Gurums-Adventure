@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cb3a4bce63267d8469436bf043cdf747
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - redBallPrefab: {fileID: 100000, guid: 3e608f4ea2183e04aa517df826a3ac7d, type: 2}
+  - orangeBallPrefab: {fileID: 100000, guid: 7f6426218f4eaa64cb0e9fb9dabccd2e, type: 2}
+  - yellowBallPrefab: {fileID: 100000, guid: 571bc4be51ad0b9409aeca08c0b6d40c, type: 2}
+  - greenBallPrefab: {fileID: 100000, guid: 28f777ac03f78b243862872fd37b153e, type: 2}
+  - blueBallPrefab: {fileID: 100000, guid: ef909bc97cd180145a436a7da2939849, type: 2}
+  - purpleBallPrefab: {fileID: 100000, guid: 6d11a074bc4878e4db61ccd353bc1a6d, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scene336\Balls\SpaceBall.js">
+    <Files>
+      <File FileName="Assets\Scene336\Game Controller\Referee.js" Line="55" Column="3" />
+      <File FileName="Assets\Scene336\Balls\SpaceBall.js" Line="15" Column="57" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
