@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -124,7 +124,7 @@ MonoBehaviour:
   m_MinSize: {x: 911, y: 442}
   m_MaxSize: {x: 22006, y: 10021}
   vertical: 0
-  controlID: 65
+  controlID: 62
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,12 +144,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1098
+    width: 1002
     height: 947
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 74
+  controlID: 94
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -167,8 +167,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1098
-    height: 373
+    width: 1002
+    height: 592
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
@@ -193,9 +193,9 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
-    y: 373
-    width: 1098
-    height: 574
+    y: 592
+    width: 1002
+    height: 355
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 12}
@@ -219,9 +219,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1098
+    x: 1002
     y: 0
-    width: 246
+    width: 342
     height: 947
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
@@ -303,9 +303,9 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 446
-    width: 1097
-    height: 553
+    y: 665
+    width: 1001
+    height: 334
   m_ViewDataDictionary: {fileID: 0}
   m_SerializedViewNames: []
   m_SerializedViewValues: []
@@ -317,7 +317,7 @@ MonoBehaviour:
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
-  m_MaximizeOnPlay: 1
+  m_MaximizeOnPlay: 0
   m_UseMipMap: 0
   m_VSyncEnabled: 0
   m_Gizmos: 0
@@ -338,7 +338,7 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
     m_HSlider: 0
-    m_VSlider: 1
+    m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
@@ -349,23 +349,23 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
-      width: 1097
-      height: 532
-    m_Scale: {x: 0.43203124, y: 0.43203124}
-    m_Translation: {x: 548.5, y: 266}
+      width: 1001
+      height: 313
+    m_Scale: {x: 0.24453124, y: 0.24453124}
+    m_Translation: {x: 500.5, y: 156.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -1269.5841
-      y: -615.6962
-      width: 2539.1682
-      height: 1231.3925
+      x: -2046.7732
+      y: -640
+      width: 4093.5464
+      height: 1280
     m_MinimalGUI: 1
-  m_defaultScale: 0.43203124
-  m_LastWindowPixelSize: {x: 1097, y: 553}
+  m_defaultScale: 0.24453124
+  m_LastWindowPixelSize: {x: 1001, y: 334}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -393,8 +393,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 73
-    width: 1097
-    height: 352
+    width: 1001
+    height: 571
   m_ViewDataDictionary: {fileID: 0}
   m_ShowContextualTools: 0
   m_WindowGUID: 6f870a7a2a42e51449ecea88bce3105e
@@ -407,9 +407,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: 142.9861, y: -102.86731, z: 120.076416}
     speed: 2
-    m_Value: {x: -1.2200768, y: 0.072284855, z: -0.44051114}
+    m_Value: {x: 142.9861, y: -102.86731, z: 120.076416}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -448,7 +448,7 @@ MonoBehaviour:
       m_Fade:
         m_Target: 0
         speed: 2
-        m_Value: 1
+        m_Value: 0
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
       m_Size: {x: 1, y: 1}
@@ -456,20 +456,20 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+    m_Target: {x: -0.5455411, y: 0.041911393, z: -0.02741107, w: -0.8366699}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0, w: 1}
+    m_Value: {x: -0.54675734, y: 0.041867297, z: -0.027472006, w: -0.83579236}
   m_Size:
-    m_Target: 10
+    m_Target: 87.609726
     speed: 2
-    m_Value: 4.7034087
+    m_Value: 87.609726
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
   m_CameraSettings:
-    m_Speed: 1
-    m_SpeedNormalized: 0.5
+    m_Speed: 0.94053
+    m_SpeedNormalized: 0.47
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1
@@ -596,17 +596,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1098
+    x: 1002
     y: 73
-    width: 244
+    width: 340
     height: 926
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: c058fdff
       m_LastClickedID: 0
-      m_ExpandedIDs: a2faffff
+      m_ExpandedIDs: 4404fdffc856fdffd058fdff1874fdff9a75fdffb275fdff6a78fdff8893fdff8c94fdff2474feff3274feff1c76feff5a76feff5e76feff6076feffea77feff4c7bfefff67cfeff8c91feffb09efeffcaaafeff0ce5feff4cecfeff1cf1feff26f6feff40fcfeff88fffeffde38ffffe838ffffbe4affffd64bffff484cffff084dffff804dffff4e4effffc2d8ffff2ad9ffff48ecffffcaedffff34eeffff9eeeffff08efffffccf0ffffecf0ffff16f1ffff36f1ffff70fbffff96ee0000680901000c1c010028320100743401005e360100c09801003a9c0100529c01006c9c010080db01008edb0100c0db0100a4dc010008fb010012190200261902005a19020072190200bc2402008eab02006cb1020022b30200
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -667,21 +667,22 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SkipHidden: 0
     m_SearchArea: 1
-    m_Folders: []
+    m_Folders:
+    - Assets/Assets/Gurum1
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\nowk\Documents\GitHub\Gurums-Adventure\Gurums-Adventure\Gurums-Adventure2
+  m_LastProjectPath: C:\Users\nowk\Documents\GitHub\Gurums-Adventure\Gurums-Adventure2
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: c6440000
     m_LastClickedID: 17606
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000523d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -709,7 +710,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffffd04b0000
+    m_ExpandedIDs: 04d0ffffffffffff00000000523d00006c3d0000643e0000683e00006e3e0000703e0000783e00007a3e00007c3e0000823e0000843e0000863e0000883e00008e3e0000903e0000963e0000a43e0000a63e0000a83e0000aa3e0000ae3e0000b43e0000b63e0000b83e0000bc3e0000be3e0000c03e0000c43e0000cc3e0000d03e0000d83e0000da3e0000dc3e0000e03e0000e23e0000e63e0000e83e0000ee3e0000f03e0000f43e0000fe3e0000003f00002e41000026480000ac3d0100bc3f0100ca3f0100cc3f0100d23f0100289f0100689f0100ee9f010032a0010052070200
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
