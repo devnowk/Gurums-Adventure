@@ -2,13 +2,13 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class gameManager : MonoBehaviour
+public class GameManager : MonoBehaviour
 {
     public GameObject[] door = new GameObject[3]; // 클리어 해야 하는 미니 게임 문 받아옴
     public GameObject[] level_3_object; // 3단계에 active해야 하는 오브젝트
     public int level = 1; // 현재 클리어해야 하는 단계
 
-    public static gameManager I; // 싱글톤
+    public static GameManager I; // 싱글톤
     void Awake()
     {
         I = this;
