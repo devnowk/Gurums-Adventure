@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Scene
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -149,7 +149,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 42
+  controlID: 38
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -338,7 +338,7 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
     m_HSlider: 0
-    m_VSlider: 0
+    m_VSlider: 1
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
@@ -351,7 +351,7 @@ MonoBehaviour:
       y: 21
       width: 1001
       height: 313
-    m_Scale: {x: 0.24453124, y: 0.24453124}
+    m_Scale: {x: 0.2609375, y: 0.2609375}
     m_Translation: {x: 500.5, y: 156.5}
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -359,12 +359,12 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -2046.7732
-      y: -640
-      width: 4093.5464
-      height: 1280
+      x: -1918.0837
+      y: -599.76044
+      width: 3836.1675
+      height: 1199.5209
     m_MinimalGUI: 1
-  m_defaultScale: 0.24453124
+  m_defaultScale: 0.2609375
   m_LastWindowPixelSize: {x: 1001, y: 334}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
@@ -407,9 +407,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 4.613784, y: 4.336706, z: -76.94475}
+    m_Target: {x: 4.638658, y: -29.115055, z: -62.032753}
     speed: 2
-    m_Value: {x: 4.613784, y: 4.336706, z: -76.94475}
+    m_Value: {x: 4.638658, y: -29.115055, z: -62.032753}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -456,13 +456,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.0009246632, y: 0.996851, z: -0.07972887, w: -0.01166942}
+    m_Target: {x: -0.016204566, y: 0.92062306, z: -0.38848576, w: -0.038419746}
     speed: 2
-    m_Value: {x: -0.0009245682, y: 0.9967486, z: -0.079720676, w: -0.011668221}
+    m_Value: {x: -0.015564659, y: 0.92116624, z: -0.38708818, w: -0.03705832}
   m_Size:
-    m_Target: 37.303463
+    m_Target: 46.298817
     speed: 2
-    m_Value: 37.303463
+    m_Value: 46.298817
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -604,9 +604,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: e64a0000
-      m_LastClickedID: 19174
-      m_ExpandedIDs: 4efbffffa84600008a480000c6490000e64a0000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 70fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -682,7 +682,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: c6440000
     m_LastClickedID: 17606
-    m_ExpandedIDs: 0000000050520000525200005452000056520000585200005a5200005c5200005e52000060520000625200006452000066520000685200006a5200006c5200006e5200007052000072520000
+    m_ExpandedIDs: 00000000585200005a5200005c5200005e52000060520000625200006452000066520000685200006a5200006c5200006e52000070520000725200007452000076520000785200007a520000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -710,21 +710,21 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 916}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff0000000050520000525200005452000056520000585200005a5200005c5200005e52000060520000625200006452000066520000685200006a5200006c5200006e5200007052000072520000
+    m_ExpandedIDs: ffffffff00000000585200005a5200005c5200005e52000060520000625200006452000066520000685200006a5200006c5200006e52000070520000725200007452000076520000785200007a520000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: DoorPush
-      m_OriginalName: DoorPush
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 21254
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 10}
     m_SearchString: 
